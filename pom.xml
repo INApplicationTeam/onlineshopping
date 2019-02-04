@@ -57,6 +57,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>onlineshopping2</finalName>
+		<finalName>onlineshopping</finalName>
 	</build>
 </project>
