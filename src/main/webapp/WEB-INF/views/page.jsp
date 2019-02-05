@@ -105,7 +105,7 @@
                   <h4 class="card-title">
                     <a href="#">OPPO R15</a>
                   </h4>
-                  <h5>₹2499</h5>
+                  <h5>INR 2499</h5>
                   <p class="card-text">OPPO R15 Pro (Red 6GB RAM, 128GB Storage) with Offer</p>
                 </div>
                 <div class="card-footer">
@@ -116,13 +116,13 @@
 
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="card h-100">
-                <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+                <a href="#"><img class="card-img-top" src="https://s3-ap-southeast-1.amazonaws.com/myawsdev.net/p2.jpg" alt=""></a>
                 <div class="card-body">
                   <h4 class="card-title">
-                    <a href="#">Item Two</a>
+                    <a href="#">IPHONE XR</a>
                   </h4>
-                  <h5>$24.99</h5>
-                  <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
+                  <h5>INR 50000</h5>
+                  <p class="card-text">Apple Iphone XR 3GB RAM, 64GB Storage</p>
                 </div>
                 <div class="card-footer">
                   <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
