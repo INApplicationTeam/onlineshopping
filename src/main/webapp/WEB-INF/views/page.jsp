@@ -105,7 +105,7 @@
                   <h4 class="card-title">
                     <a href="#">IPHONE XR</a>
                   </h4>
-                  <h5>INR 14999</h5>
+                  <h5>INR 24999</h5>
                   <p class="card-text">Apple Iphone XR 3GB RAM, 64GB Storage</p>
                 </div>
                 <div class="card-footer">
