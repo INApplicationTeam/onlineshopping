@@ -121,7 +121,7 @@
                   <h4 class="card-title">
                     <a href="#">OPPO R15</a>
                   </h4>
-                  <h5>INR 15000</h5>
+                  <h5>INR 5000</h5>
                   <p class="card-text">OPPO R15 Pro (Red 6GB RAM, 128GB Storage) with Offer</p>
                 </div>
                 <div class="card-footer">
