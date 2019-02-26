@@ -58,7 +58,7 @@
 
         <div class="col-lg-3">
 
-          <h1 class="my-4">CenturyLink  Ecommerce Shop</h1>
+          <h1 class="my-4">CenturyLink Shop</h1>
           <div class="list-group">
             <a href="#" class="list-group-item">Products</a>
 
