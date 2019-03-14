@@ -58,7 +58,7 @@
 
         <div class="col-lg-3">
 
-          <h1 class="my-4">CTL E-Shopping online</h1>
+          <h1 class="my-4">CTLI E-Shopping online</h1>
           <div class="list-group">
             <a href="#" class="list-group-item">Products</a>
 
