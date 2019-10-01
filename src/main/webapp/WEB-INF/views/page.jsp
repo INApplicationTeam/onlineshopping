@@ -58,7 +58,7 @@
 
         <div class="col-lg-3">
 
-          <h1 class="my-4">CTL Steve Presentation E-Shopping online</h1>
+          <h1 class="my-4">CTL Steve Presentation E-Shoppingg online</h1>
           <div class="list-group">
             <a href="#" class="list-group-item">Products</a>
 
